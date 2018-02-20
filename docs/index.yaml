@@ -1,5 +1,23 @@
 apiVersion: v1
 entries:
+  ibm-odm-dev:
+  - apiVersion: v1
+    appVersion: 8.9.2
+    created: 2018-02-20T18:22:58.552963979+01:00
+    description: IBM Operational Decision Manager for Developers
+    digest: de6cae7fb40da59f174a42cdfa9c5326943aa6b7cd202aadd4eafc2a5032e3a0
+    home: https://developer.ibm.com/odm/
+    icon: https://raw.githubusercontent.com/ODMDev/ruledesigner/master/icons/odmicon.png
+    keywords:
+    - OperationalDecisionManager
+    - businessrules
+    maintainers:
+    - name: ODMDev
+    name: ibm-odm-dev
+    tillerVersion: '>=2.4.0'
+    urls:
+    - https://github.com/ibmmkeppeler/mycharts/ibm-odm-dev-0.9.1.tgz/ibm-odm-dev-0.9.1.tgz
+    version: 0.9.1
   notificationchart:
   - apiVersion: v1
     created: 2018-01-30T10:52:24.297337355+01:00
@@ -9,4 +27,4 @@ entries:
     urls:
     - https://github.com/ibmmkeppeler/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-01-30T10:52:24.296830574+01:00
+generated: 2018-02-20T18:22:58.550010017+01:00
